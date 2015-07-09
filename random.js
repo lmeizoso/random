@@ -7,3 +7,4 @@ if(numero <= 0.5) {
 }
 
 console.log('New change to commit');
+console.log('Second change to commit');
